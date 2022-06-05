@@ -1,3 +1,5 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Danial%20Bayati%20(DtechB)&fontAlignY=40&color=gradient)
+
 - 👋 Hi, I’m @DtechB
 - 👀 I’m interested in trading and programming
 - 🌱 I’m currently learning computer science
