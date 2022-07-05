@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,react,redux,nextjs,vue,netlify,html,css,js,ts,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,html,css,js,ts,tailwind,bootstrap" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,c,cpp,java,github" />
+    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,vscode,git,gitlab,github" />
   </a>
 </p>
 
