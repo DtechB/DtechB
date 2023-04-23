@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,vue,nuxtjs,html,css,js,ts,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,vite,js,ts,tailwind,bootstrap,materialui" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,materialui,python,django,mysql,sqlite,mongo,vscode,git,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,mongo,vscode,git,gitlab,github" />
   </a>
 </p>
 
@@ -17,17 +17,17 @@
 
 <h2>About Me</h2>
 
-I am Danial Bayati and I enjoy coding and reading web development references, and following UX design trends, when I am not coding you can find me designing a website.
-
-In addition, I love programming and design and I try to be better every day than I was yesterday by reading articles and watching educational videos about up-to-date technologies. I also like teamwork and try to code with others and work with them. 🖥
-
-My interest in coding started last year when I was intrigued with how websites were created and also when I discovered that tutorials existed for web development. This led to me following along with various tutorials when I had no idea what HTML or CSS or how they came together in order to form a website.
+I am Danial Bayati (frontend developer) and I enjoy coding and reading web development references, and following UX design trends, when I am not coding you can find me designing a website.
 
 **Fun Fact**: I like to code in simple and effective ways because consistency and determination are vital.
 
 <br>
 
 ## Github status
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DtechB&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DtechB&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DtechB&theme=github)
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
