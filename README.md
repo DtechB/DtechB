@@ -31,5 +31,5 @@ I am Danial Bayati (frontend developer) and I enjoy coding and reading web devel
 
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dtechb&bg_color=ffffff&color=190b18&line=a33e74&point=292929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dtechb&bg_color=ffffff&color=190b18&line=a33e74&point=292929&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
